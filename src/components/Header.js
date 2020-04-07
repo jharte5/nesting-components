@@ -6,7 +6,7 @@ const Header = () => {
         <div style={{
             backgroundColor: 'blue'
         }}>
-            <h1 title="Lets Go">React</h1>
+            <h1 title="Lets Go">This is the title</h1>
         </div>
     );
 };
